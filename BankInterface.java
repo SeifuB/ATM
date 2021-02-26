@@ -5,7 +5,7 @@ Course Name: Distributed Systems
 Group Members:
 Seifu Birega PGMGC/8062/20, Yordanos Woldu PGMGC/8053/20
 Simon Gebre Yohanes PGMGC/8067/20, Habtamu Birhan PGMGC/8023/20
-Fasil                           , Genet
+Fasil Teshome               , Genet Fikade
  */
 package BankOperations;
 
